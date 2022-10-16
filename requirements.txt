@@ -1,0 +1,5 @@
+spyne==2.13.15
+lxml==4.9.3
+requests==2.31.0
+zeep==4.2.1
+pytest==8.1.1
